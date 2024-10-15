@@ -5,3 +5,12 @@ ThanhCS/*
 .venv/
 *.pyc
 __pycache__/
+
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.pdf
+*.tif
+*.tiff
